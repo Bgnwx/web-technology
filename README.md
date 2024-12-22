@@ -1,4 +1,4 @@
-# Web Technology
+# Web technology
 
 ## [MySQL](https://www.mysql.com)
 
