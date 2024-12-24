@@ -4,7 +4,7 @@
 
 - Language: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
 - Style: [SQL style guide by Simon Holywell](https://www.sqlstyle.guide)
-- Formatter: [SQLFluff](https://sqlfluff.com)
+- Formatter: None
 - Linter: [SQLFluff](https://sqlfluff.com)
 - Compiler: None
 - Bundler: None
@@ -23,14 +23,14 @@
 - Language: [Oracle Java Language](https://docs.oracle.com/en/java/javase)
 - Style: [Google Java style guide](https://google.github.io/styleguide/javaguide.html)
 - Formatter: [google-java-format](https://github.com/google/google-java-format)
-- Linter: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
+- Linter: None
 - Compiler: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
 - Bundler: [jar](https://docs.oracle.com/en/java/javase/21/docs/specs/man/jar.html)
 
 ## [Nginx](https://www.f5.com/products/nginx)
 
 - Language: [Nginx Configuration Language](https://nginx.org/en/docs)
-- Style: [DigitalOcean Nginx Configuration generator](https://www.digitalocean.com/community/tools/nginx)
+- Style: None
 - Formatter: [nginxfmt](https://github.com/slomkowski/nginx-config-formatter)
 - Linter: [nginx](https://nginx.org/en/docs/switches.html)
 - Compiler: None
