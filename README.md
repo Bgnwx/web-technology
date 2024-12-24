@@ -32,7 +32,7 @@
 - Language: [Nginx Configuration Language](https://nginx.org/en/docs)
 - Style: None
 - Formatter: [nginxfmt](https://github.com/slomkowski/nginx-config-formatter)
-- Linter: [nginx](https://nginx.org/en/docs/switches.html)
+- Linter: [Nginx](https://nginx.org/en/docs/switches.html)
 - Compiler: None
 - Bundler: None
 
