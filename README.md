@@ -1,6 +1,6 @@
 # Web technology
 
-## [MySQL](https://www.mysql.com)
+## MySQL[[1]](https://www.mysql.com)
 
 - Language: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
 - Style: [SQL style guide by Simon Holywell](https://www.sqlstyle.guide)
@@ -9,7 +9,7 @@
 - Compiler: None
 - Bundler: None
 
-## [Redis](https://redis.io)
+## Redis[[2]](https://redis.io)
 
 - Language: [Redis Query Language](https://redis.io/docs/latest/commands)
 - Style: None
@@ -18,7 +18,7 @@
 - Compiler: None
 - Bundler: None
 
-## [Java](https://www.oracle.com/java)
+## Java[[3]](https://www.oracle.com/java)
 
 - Language: [Oracle Java Language](https://docs.oracle.com/en/java/javase)
 - Style: [Google Java style guide](https://google.github.io/styleguide/javaguide.html)
@@ -27,7 +27,7 @@
 - Compiler: [javac](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
 - Bundler: [jar](https://docs.oracle.com/en/java/javase/21/docs/specs/man/jar.html)
 
-## [Nginx](https://www.f5.com/products/nginx)
+## Nginx[[4]](https://www.f5.com/products/nginx)
 
 - Language: [Nginx Configuration Language](https://nginx.org/en/docs)
 - Style: None
@@ -36,7 +36,7 @@
 - Compiler: None
 - Bundler: None
 
-## [Chromium](https://www.chromium.org/Home)
+## Chromium[[5]](https://www.chromium.org/Home)
 
 - Language: [WHATWG HTML/CSS Language](https://spec.whatwg.org), [Microsoft TypeScript Language](https://www.typescriptlang.org)
 - Style: [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html), [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html)
