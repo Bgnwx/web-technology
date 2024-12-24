@@ -9,6 +9,15 @@
 - Compiler: None
 - Bundler: None
 
+## [Redis](https://redis.io)
+
+- Language: [Redis Query Language](https://redis.io/docs/latest/commands)
+- Style: None
+- Formatter: None
+- Linter: None
+- Compiler: None
+- Bundler: None
+
 ## [Java](https://www.oracle.com/java)
 
 - Language: [Oracle Java Language](https://docs.oracle.com/en/java/javase)
