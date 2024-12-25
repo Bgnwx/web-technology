@@ -9,9 +9,9 @@
 - Compiler: None
 - Bundler: None
 
-## Redis[[2]](https://redis.io)
+## Elasticsearch[[2]](https://www.elastic.co/elasticsearch)
 
-- Language: [Redis Query Language](https://redis.io/docs/latest/commands)
+- Language: [Elasticsearch Query Language](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 - Style: None
 - Formatter: None
 - Linter: None
