@@ -9,15 +9,6 @@
 - Compiler: None
 - Bundler: None
 
-## Elasticsearch[[2]](https://www.elastic.co/elasticsearch)
-
-- Language: [Elasticsearch Query Language](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
-- Style: None
-- Formatter: None
-- Linter: None
-- Compiler: None
-- Bundler: None
-
 ## Java[[3]](https://www.oracle.com/java)
 
 - Language: [Oracle Java Language](https://docs.oracle.com/en/java/javase)
