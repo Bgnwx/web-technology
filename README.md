@@ -30,7 +30,7 @@
 ## Chromium[[4]](https://www.chromium.org/Home)
 
 - Language: [WHATWG HTML/CSS Language](https://spec.whatwg.org), [Microsoft TypeScript Language](https://www.typescriptlang.org)
-- Style: [Google HTML/CSS style guide](https://google.github.io/styleguide/htmlcssguide.html), [Google TypeScript style guide](https://google.github.io/styleguide/tsguide.html)
+- Style: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html), [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
 - Formatter: [Prettier](https://prettier.io), [Prettier](https://prettier.io)
 - Linter: [Markuplint](https://markuplint.dev)/[Stylelint](https://stylelint.io)/[stylelint-config-recommended](https://github.com/stylelint/stylelint-config-recommended), None
 - Compiler: None, [TypeScript](https://www.typescriptlang.org)
