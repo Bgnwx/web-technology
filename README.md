@@ -1,23 +1,5 @@
 # 万维网技术
 
-## GFM
-
-- Language: [GFM](https://github.github.com/gfm)
-- Style: [Markdown style guide](https://google.github.io/styleguide/docguide/style.html)
-- Formatter: None
-- Linter: [markdownlint](https://dlaa.me/markdownlint)
-- Compiler: None
-- Bundler: None
-
-## sh
-
-- Language: [sh](https://man.freebsd.org/cgi/man.cgi?sh)
-- Style: [Shell style guide](https://google.github.io/styleguide/shellguide.html)
-- Formatter: [shfmt](https://github.com/mvdan/sh?tab=readme-ov-file#shfmt)
-- Linter: [ShellCheck](https://www.shellcheck.net)
-- Compiler: None
-- Bundler: None
-
 ## MySQL[[1]](https://www.mysql.com)
 
 - Language: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
