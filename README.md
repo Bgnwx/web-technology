@@ -1,4 +1,4 @@
-# Web technology
+# 万维网技术
 
 ## MySQL[[1]](https://www.mysql.com)
 
