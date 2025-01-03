@@ -1,20 +1,20 @@
 # 万维网技术
 
-## Redis[[1]](https://redis.io)
-
-- Language: [Redis Query Language](https://redis.io/docs/latest/commands)
-- Style: None
-- Formatter: None
-- Linter: None
-- Compiler: None
-- Bundler: None
-
-## MySQL[[2]](https://www.mysql.com)
+## MySQL[[1]](https://www.mysql.com)
 
 - Language: [MySQL SQL Language](https://dev.mysql.com/doc/refman/8.4/en/glossary.html#glos_sql)
 - Style: [SQL style guide by Simon Holywell](https://www.sqlstyle.guide)
 - Formatter: None
 - Linter: [SQLFluff](https://sqlfluff.com)
+- Compiler: None
+- Bundler: None
+
+## Redis[[2]](https://redis.io)
+
+- Language: [Redis Query Language](https://redis.io/docs/latest/commands)
+- Style: None
+- Formatter: None
+- Linter: None
 - Compiler: None
 - Bundler: None
 
